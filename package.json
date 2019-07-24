@@ -1,0 +1,19 @@
+{
+  "name": "color-converter",
+  "version": "1.0.0",
+  "description": "RGB to hex converter",
+  "main": "color.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "color",
+    "rgb",
+    "hex",
+    "converter",
+    "color",
+    "converter"
+  ],
+  "author": "Nicky Laczko",
+  "license": "MIT"
+}
