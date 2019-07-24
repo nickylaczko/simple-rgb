@@ -5,7 +5,7 @@
 
 > An RGB to hex converter
 
-### 🏠 [Homepage](https://github.com/nickylaczko/ color-converter)
+### 🏠 [Homepage](https://github.comnickylaczko/color-converter)
 
 ## Install
 
@@ -16,7 +16,7 @@ npm install color-converter
 ## Usage
 
 ```sh
-rgb(color, color, color)
+rgb(number, number, number)
 ```
 
 ## Run tests
