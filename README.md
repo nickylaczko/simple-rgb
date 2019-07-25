@@ -1,9 +1,4 @@
 # Welcome to simple RGB
-![Version](https://img.shields.io/npm/v/color-converter.svg)
-![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)(https://github.com/nickylaczko/colorconverter/test/docs.md)
-![Twitter: thynickylaczko](https://img.shields.io/twitter/follow/thynickylaczko.svg?style=social)](https://twitter.com/thynickylaczko)
-![npm](https://www.npmjs.com/package/simple-rgb)
-
 > An RGB to hex converter
 
 ### 🏠 [Homepage](https://github.comnickylaczko/color-converter)
