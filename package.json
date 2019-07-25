@@ -1,5 +1,5 @@
 {
-  "name": "color-converter",
+  "name": "simple-rgb",
   "version": "1.0.0",
   "description": "RGB to hex converter",
   "main": "color.js",

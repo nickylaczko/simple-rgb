@@ -1,7 +1,7 @@
-# Welcome to color-converter 👋
-![Version](https://img.shields.io/npm/v/color-converter.svg)
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/nickylaczko/ color-converter/test/docs.md)
-[![Twitter: thynickylaczko](https://img.shields.io/twitter/follow/thynickylaczko.svg?style=social)](https://twitter.com/thynickylaczko)
+# Welcome to simple RGB &#1F3A8;
+[Version](https://img.shields.io/npm/v/color-converter.svg)
+[Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/nickylaczko/ color converter/test/docs.md)
+[Twitter: thynickylaczko](https://img.shields.io/twitter/follow/thynickylaczko.svg?style=social)](https://twitter.com/thynickylaczko)
 
 > An RGB to hex converter
 
@@ -10,12 +10,16 @@
 ## Install
 
 ```sh
-npm install color-converter
+npm install simple-rgb
 ```
 
 ## Usage
 
 ```sh
+const rgb = require('simple-rgb')
+// or
+import rgb from 'simple-rgb'
+
 rgb(number, number, number)
 ```
 
