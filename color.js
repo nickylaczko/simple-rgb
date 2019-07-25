@@ -9,19 +9,20 @@ function _convert (rgb) {
   return hx;
 }
 
-// @function rgb
-// @arguments { r, g, b } Integers
-// @returnValue { color, compliment }
+/**
+ * @function rgb
+ * @arguments { r, g, b } Numbers
+ * @return { color, compliment }
+**/
 function rgb (r, g, b) {
-  let cr = 255 - r;
-  let cg = 255 - g;
-  let cb = 255 - b;
+  let cr = base - r;
+  let cg = base - g;
+  let cb = base - b;
   let color = "#" + _convert(r) + _convert(g) + _convert(b);
   return {
     color,
     compliment: (
-      "#"+
-      _convert(cr) + _convert(cg) + _convert(cb)
+      "#"+ _convert(cr) + _convert(cg) + _convert(cb)
     )
   };
 }
